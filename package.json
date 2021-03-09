@@ -1,0 +1,15 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Read csv file and convert to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "lodash": "^4.17.21"
+  }
+}
