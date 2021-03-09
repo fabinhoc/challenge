@@ -1,4 +1,4 @@
-# Chanllenge Project
+# Challenge Project
 O Teste foi desenvolvido utilizando  [Nodejs](https://nodejs.org/) e utilizando pacotes como [csv-parser](https://www.npmjs.com/package/csv-parser) e [loadsh](https://lodash.com/). Siga os passos para instalação do projeto:
 
 ### Pré-requisitos
